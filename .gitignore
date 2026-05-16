@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# claude - settings.local.json은 스타터킷 설정으로 포함
+!.claude/settings.local.json
